@@ -1,4 +1,3 @@
-```md
 # ByteShield: AI Agent Tool Security and Prompt-Injection Defense
 
 ByteShield is a multi-branch security research project designed to protect AI agents from unsafe and malicious tool behavior.
