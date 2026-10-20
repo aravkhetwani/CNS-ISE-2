@@ -519,10 +519,3 @@ This is the missing differentiator and the strongest contribution this repo can 
 
 ## Additional note
 This feature should be treated as the most important improvement because it turns a security detector into a trustworthy, debuggable system.
-```
-
-If you want, I can also give you:
-- a shorter 1-page GitHub README
-- a full feature specification document in a research-paper style
-- a code skeleton for `provenance.py` and `Gateway.get_session_explanation()`
-- a dashboard mockup for the explainable blocking feature
